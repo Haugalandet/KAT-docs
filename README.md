@@ -7,8 +7,8 @@ Contains documentation pertaining to Katzapp
 | Service Name | Link | Status |
 | ------------ | ---- | ------ |
 | KAT-frontend | [x](https://github.com/Haugalandet/KAT-frontend)    | _      |
-| KAT-db-img   | x    | _      |
-| KAT-db-usr   | x    | _      |
-| KAT-img      | x    | _      |
-| KAT-user     | x    | _      |
+| KAT-db-img   | [x](https://github.com/Haugalandet/KAT-db-img)    | _      |
+| KAT-db-usr   | [x](https://github.com/Haugalandet/KAT-db-usr)    | _      |
+| KAT-img      | [x](https://github.com/Haugalandet/KAT-img)    | _      |
+| KAT-user     | [x](https://github.com/Haugalandet/KAT-user)    | _      |
 
