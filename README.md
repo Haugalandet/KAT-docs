@@ -16,7 +16,7 @@ While anyone can view the content, only authenticated users can upload and delet
 | Service Name | Link | Status |
 | ------------ | ---- | ------ |
 | KAT-frontend | [x](https://github.com/Haugalandet/KAT-frontend)    | _      |
-| KAT-db-meta  | [x](https://github.com/Haugalandet/KAT-db-img)    | _      |
+| KAT-db-meta  | [x](https://github.com/Haugalandet/KAT-db-meta)    | _      |
 | KAT-img      | [x](https://github.com/Haugalandet/KAT-img)    | _      |
 | KAT-user     | [x](https://github.com/Haugalandet/KAT-user)    | _      |
-| KAT-stream   | [x]() | _ |
+| KAT-stream   | [x](https://github.com/Haugalandet/KAT-stream) | _ |
