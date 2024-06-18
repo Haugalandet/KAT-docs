@@ -30,4 +30,5 @@ While anyone can view the content, only authenticated users can upload and delet
   - Remove
   - Restrict 
 - Everyone can view images
+- Uwubernetes
 
